@@ -8,7 +8,7 @@
 #include <iostream> // Include stantard library
 
 int main() {
-	std::cout << "Commentary!" << std::endl; // Console out
+	std::cout << "That's the comment section!" << std::endl; // Console out
 
 	return 0;
 }
